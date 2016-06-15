@@ -1,0 +1,18 @@
+{
+  "name": "ampersand-object",
+  "version": "1.0.0",
+  "description": "Just a tiny wrapper around volatile ampersand states",
+  "main": "index.js",
+  "dependencies": {
+    "ampersand-state": "^5.0.2"
+  },
+  "scripts": {
+    "test": "true"
+  },
+  "keywords": [
+    "ampersand",
+    "object"
+  ],
+  "author": "alex-pex",
+  "license": "ISC"
+}
